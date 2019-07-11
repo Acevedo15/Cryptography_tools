@@ -45,18 +45,6 @@ char* binario (unsigned long long a, unsigned long long n){
 	
 }
 
-unsigned long long longitud(char a[]){
-	
-	
-	unsigned long long i;
-
-	
-	for(i = 0 ; a[i] != '\0'; i++);
-	
-	
-	return i;
-}
-
 unsigned long long expRapida(unsigned long long base, unsigned long long exponente, unsigned long long modulo){
 	
 	
