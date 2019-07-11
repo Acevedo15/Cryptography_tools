@@ -87,7 +87,7 @@ int main(){
 	
 	do{
 	
-		cout<<"Base: "; //18446744073709551615 is the maximun number para unsigned long long
+		cout<<"Base: "; //18446744073709551615 is the maximun number for unsigned long long
 		cin>>b;
 		cout<<"Exponent: ";
 		cin>>ex;
